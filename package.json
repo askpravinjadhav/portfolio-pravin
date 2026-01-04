@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-server",
+  "version": "1.0.0",
+  "description": "Local server for portfolio with clean URLs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
