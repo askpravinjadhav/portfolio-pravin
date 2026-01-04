@@ -1,0 +1,7 @@
+# Netlify redirects for clean URLs
+/about    /about.html   200
+/work     /work.html    200
+/blog     /blog.html    200
+/contact  /contact.html 200
+/rust-language-guide  /rust-language-guide.html  200
+

@@ -1,11 +1,16 @@
-const CACHE_NAME = 'pravin-portfolio-v2';
+const CACHE_NAME = 'pravin-portfolio-v3';
 const urlsToCache = [
   '/',
   '/index.html',
+  '/about',
   '/about.html',
+  '/work',
   '/work.html',
+  '/blog',
   '/blog.html',
+  '/contact',
   '/contact.html',
+  '/rust-language-guide',
   '/rust-language-guide.html',
   '/style.css',
   '/manifest.json'
